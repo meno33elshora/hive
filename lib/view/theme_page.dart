@@ -5,7 +5,7 @@ import 'package:hive_flutter/adapters.dart';
 import '../main.dart';
 
 
-//  hive with theme 
+//  hive with theme dark & light
 class ThemePage extends StatelessWidget {
   const ThemePage({Key? key}) : super(key: key);
 
