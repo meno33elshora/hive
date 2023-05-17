@@ -4,6 +4,8 @@ import 'package:hive_flutter/adapters.dart';
 
 import '../main.dart';
 
+
+//  hive with theme 
 class ThemePage extends StatelessWidget {
   const ThemePage({Key? key}) : super(key: key);
 
